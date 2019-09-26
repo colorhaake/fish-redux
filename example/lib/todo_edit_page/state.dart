@@ -23,7 +23,6 @@ class TodoEditState implements GlobalBaseState, Cloneable<TodoEditState> {
       ..descEditController = descEditController
       ..focusNodeName = focusNodeName
       ..focusNodeDesc = focusNodeDesc
-      ..toDo = toDo
       ..themeColor = themeColor;
   }
 }
