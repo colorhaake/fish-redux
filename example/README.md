@@ -1,16 +1,17 @@
 # sample
 
-A new Flutter project.
+A Todo list application using fish-redux architecture
 
-## Getting Started
+## Quizzes
 
-This project is a starting point for a Flutter application.
+1. Mark todo done is not working. Please help to fix bug.
 
-A few resources to get you started if this is your first Flutter project:
+2. Change theme is not working. Please help to fix bug.
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+3. We also want to change the background of changed-theme button to theme color. Please help to implement this function.
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+4. Unable to update and add todo. Please help to fix bug.
+
+5. Remove todo is not working. Please help to fix bug.
+
+6. Please implement removed all button on the top-right of todo list page.
