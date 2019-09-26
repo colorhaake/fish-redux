@@ -7,8 +7,8 @@
 .dart_tool/
 build/
 pubspec.lock
-android/
-ios/
+# android/
+# ios/
 .gradle/
 build.gradle
 gradle/
