@@ -23,7 +23,7 @@ ToDoState _edit(ToDoState state, Action action) {
 ToDoState _markDone(ToDoState state, Action action) {
   final String uniqueId = action.payload;
   if (state.uniqueId == uniqueId) {
-    return state.clone()..isDone = !state.isDone;
+    return state.clone()..isDone = state.isDone;
   }
   return state;
 }
