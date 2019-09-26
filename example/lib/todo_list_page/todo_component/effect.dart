@@ -42,7 +42,7 @@ void _onRemove(Action action, Context<ToDoState> ctx) async {
             ),
             GestureDetector(
               child: const Text('Yes', style: TextStyle(fontSize: 16.0)),
-              onTap: () => Navigator.of(buildContext).pop('Yes'),
+              onTap: () => Navigator.of(buildContext).pop('YES'),
             )
           ],
         );
